@@ -30,6 +30,7 @@ Open the Project
 Open index.html in your browser to view the website.
 
 
-License
+📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
